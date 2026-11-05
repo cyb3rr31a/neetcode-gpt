@@ -6,8 +6,6 @@ class Solution:
         # Round final answer to 5 decimal places
         x = init
 
-        cost_history = []
-
         for i in range(iterations):
             dx = 2 * x
 
